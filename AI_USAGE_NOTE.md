@@ -22,6 +22,6 @@ speed up the verification cycle significantly compared to manually tracing
 through test cases by hand.
 
 **Challenges encountered:**
-*Balancing strict input validation with a simple and user-friendly interface.
-*Handling edge cases such as invalid discount codes and discounts exceeding the cart total (e.g., a $100 discount applied to a $10 cart), ensuring the final amount never becomes negative.
-*Deciding whether invalid user inputs should be rejected immediately or allow users to retry, while maintaining a smooth CLI experience.
+* Balancing strict input validation with a simple and user-friendly interface.
+* Handling edge cases such as invalid discount codes and discounts exceeding the cart total (e.g., a $100 discount applied to a $10 cart), ensuring the final amount never becomes negative.
+* Deciding whether invalid user inputs should be rejected immediately or allow users to retry, while maintaining a smooth CLI experience.
