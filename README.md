@@ -1,4 +1,4 @@
-# KOD Mart — Simple Cart and Discount System
+# KOD_MART - SIMPLE CART & DISCOUNT SYSTEM 
 
 A command-line shopping cart application that lets users add items, view the
 running total, apply a discount code, and see the final amount due.
